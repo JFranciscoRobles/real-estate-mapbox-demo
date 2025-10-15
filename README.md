@@ -77,5 +77,4 @@ Contributing
 
 License
 - This repository is provided as-is for demo and learning purposes.
-# real-estate-mapbox-demo
-# real-estate-mapbox-demo
+
